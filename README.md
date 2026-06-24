@@ -7,9 +7,9 @@
 
 2. 환경 변수 설정
 프로젝트 폴더에 `.env`라는 파일에 본인의 키 정보를 적는다. (필요시 변경, 이미 적혀있음)
-> GH_ACCOUNT = 44168337-01
-> GH_APPKEY = PS9RuEiRxqNGvQRMrD2IfHDSGKY0JZxGtdnI
-> GH_APPSECRET = xHg5vj4iU4goGiz88f9OFBcDQg08Nit3naR1yNpRRI6VO95lhJPEBSPLdMx+0G4ayfpPrjckVt2WPG+TpT4JpmpwK8gZv4Cysxnfuc00kNLqyzZGPT0xZ2zvqlb+cw+Sj4vs/KWMB6WgW+r83UlX8/IzE/BUPUt8+Yf1819tDA/0/jLRzMs=
+> GH_ACCOUNT = 
+> GH_APPKEY = 
+> GH_APPSECRET = 
 
 3. 프로그램 실행
 터미널에 아래 명령어를 입력한다.
