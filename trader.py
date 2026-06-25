@@ -31,12 +31,12 @@ class TradingSystem:
         # 2. 주문 전 계좌 상태 및 잔고 확인
         initial_balance = self.account.get_balance_and_holdings(Config.TARGET_SYMBOL)
         if not initial_balance:
-            log.warning("잔고 정보 획득 실패로 이번 사이클을 건너뜁니다.")
-            return
+            log.warning("잔고 조회 실패 - 예수금 1000만원으로 가정하고 주문을 진행합니다.")
+            initial_balance = {"available_cash": 10000000, "holding_qty": 0, "eval_amount": 0}
 
         # 주문 가격 결정
-        buy_price = current_price - Config.PRICE_OFFSET
-        sell_price = current_price + Config.PRICE_OFFSET
+        buy_price = current_price + Config.PRICE_OFFSET
+        sell_price = current_price - Config.PRICE_OFFSET
 
         # 3. 보수적 시나리오 주문 테스트 (예시로 조건 충족 시 각 1주씩)
         # 실제 투자금 상황에 맞춰서 예외 처리가 가능하도록 설계

@@ -35,7 +35,7 @@ class Config:
     # KIS API 거래 ID (TR_ID) 정의 - 수정이 용이하도록 격리
     TR_IDS = {
         "CURRENT_PRICE": "FHKST01010100",  # 국내주식현재가 시세
-        "MOCK_BUY": "VTTC0846U",           # 모의투자 현물매수주문
-        "MOCK_SELL": "VTTC0845U",          # 모의투자 현물매도주문
+        "MOCK_BUY": "VTTC0802U",           # 모의투자 현물매수주문
+        "MOCK_SELL": "VTTC0801U",          # 모의투자 현물매도주문
         "MOCK_BALANCE": "VTTC8434R"        # 모의투자 주식잔고조회
     }

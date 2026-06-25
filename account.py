@@ -11,11 +11,13 @@ class Account:
         path = "/uapi/domestic-stock/v1/trading/inquire-balance"
         params = {
             "CANO": Config.ACCOUNT_CANO, "ACNT_PRDT_CD": Config.ACCOUNT_ACNT_PRDT_CD,
-            "AFHR_FLG": "N", "OFR_HEXS_DIV_CD": "N", "PRCS_DVSN": "01",
-            "CTX_AREA_FK100": "", "CTX_AREA_NK100": ""
+            "AFHR_FLPR_YN": "N", "OFL_YN": "", "INQR_DVSN": "02",
+            "UNPR_DVSN": "01", "FUND_STTL_ICLD_YN": "N",
+            "FNCG_AMT_AUTO_RDPT_YN": "N", "PRCS_DVSN": "01",            "CTX_AREA_FK100": "", "CTX_AREA_NK100": ""
         }
         res = self.client.request("GET", path, tr_id=Config.TR_IDS["MOCK_BALANCE"], params=params)
         if not res: return None
+    
         result = {"available_cash": 0, "holding_qty": 0, "eval_amount": 0}
         try:
             if "output2" in res and len(res["output2"]) > 0:
