@@ -1,0 +1,830 @@
+[2026-06-19 16:48:20] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-19 16:48:20] [INFO] 금일 장 마감 시간(15:30:00)이 지나 프로그램을 안전하게 자동 종료합니다.
+[2026-06-20 13:15:52] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-20 13:15:52] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 13:15:52] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 13:15:54] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:15:54] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:15:54] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 13:16:04] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 13:16:04] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 13:16:04] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:16:04] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:16:04] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 13:16:14] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 13:16:14] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 13:16:15] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:16:15] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:16:15] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 13:16:25] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 13:16:25] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 13:16:25] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:16:25] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:16:25] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 13:16:35] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 13:16:35] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 13:16:36] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:16:36] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:16:36] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 13:16:46] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 13:16:46] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 13:16:46] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:16:46] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:16:46] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 13:22:13] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-20 13:22:13] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 13:22:13] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 13:22:14] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:22:14] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:22:14] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 13:22:24] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 13:22:24] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 13:22:24] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:22:24] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:22:24] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 13:22:34] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 13:22:34] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 13:22:35] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:22:35] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 13:22:35] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:07:07] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-20 14:07:07] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:07:07] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:07:10] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:07:10] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:07:10] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:07:20] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:07:20] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:09:31] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-20 14:09:31] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:09:31] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:09:34] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:09:34] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:09:34] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:09:44] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:09:44] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:09:48] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:09:48] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:09:48] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:09:58] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:09:58] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:10:04] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:10:04] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:10:04] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:10:14] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:10:14] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:10:17] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:10:17] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:10:17] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:10:27] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:10:27] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:10:31] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:10:31] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:10:31] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:10:41] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:10:41] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:10:44] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:10:44] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:10:44] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:10:54] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:10:54] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:10:57] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:10:57] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:10:57] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:11:07] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:11:07] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:11:13] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:11:13] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:11:13] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:11:23] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:11:23] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:11:24] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:11:24] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:11:24] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:11:34] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:11:34] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:11:38] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:11:38] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:11:38] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:11:48] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:11:48] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:11:51] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:11:51] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:11:51] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:12:01] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:12:01] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:12:05] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:12:05] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:12:05] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:12:15] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:12:15] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:12:18] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:12:18] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:12:18] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:12:28] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:12:28] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:12:31] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:12:31] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:12:31] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:12:41] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:12:41] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:12:45] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:12:45] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:12:45] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:12:55] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:12:55] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:12:57] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:12:57] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:12:57] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:13:07] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:13:07] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:13:10] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:13:10] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:13:10] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:13:20] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:13:20] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:13:24] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:13:24] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:13:24] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:13:34] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:13:34] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:13:37] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:13:37] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:13:37] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:13:47] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:13:47] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:13:50] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:13:50] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:13:50] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:14:00] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:14:00] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:14:04] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:14:04] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:14:04] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:14:14] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:14:14] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:14:17] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:14:17] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:14:17] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:14:27] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:14:27] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:14:29] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:14:29] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:14:29] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:14:39] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:14:39] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:14:43] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:14:43] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:14:43] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:14:53] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:14:53] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:14:56] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:14:56] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:14:56] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:15:06] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:15:06] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:15:08] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:15:08] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:15:08] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:15:18] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:15:18] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:15:22] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:15:22] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:15:22] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:15:32] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:15:32] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:15:35] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:15:35] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:15:35] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:15:45] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:15:45] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:15:50] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:15:50] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:15:50] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:16:00] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:16:00] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:16:07] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:16:07] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:16:07] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:16:17] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:16:17] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:16:24] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:16:24] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:16:24] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:16:34] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:16:34] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:16:39] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:16:39] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:16:39] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:16:49] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:16:49] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:16:52] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:16:52] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:16:52] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:17:02] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:17:02] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:17:03] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:17:03] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:17:03] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:17:13] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:17:13] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:17:16] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:17:16] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:17:16] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:17:26] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:17:26] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:17:30] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:17:30] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:17:30] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:17:40] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:17:40] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:17:43] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:17:43] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:17:43] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:17:53] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:17:53] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:17:57] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:17:57] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:17:57] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:18:07] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:18:07] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:18:11] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:18:11] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:18:11] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:18:21] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:18:21] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:18:27] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:18:27] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:18:27] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:18:37] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:18:37] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:18:40] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:18:40] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:18:40] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:18:50] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:18:50] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:18:54] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:18:54] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:18:54] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:19:04] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:19:04] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:19:07] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:19:07] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:19:07] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:19:17] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:19:17] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:19:21] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:19:21] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:19:21] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:19:31] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:19:31] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:19:35] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:19:35] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:19:35] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:19:45] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:19:45] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:19:48] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:19:48] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:19:48] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:19:58] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:19:58] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:20:02] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:20:02] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:20:02] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:20:12] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:20:12] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:20:15] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:20:15] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:20:15] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:20:25] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:20:25] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:20:29] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:20:29] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:20:29] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:20:39] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:20:39] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:20:43] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:20:43] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:20:43] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:20:53] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:20:53] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:20:56] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:20:56] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:20:56] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:21:06] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:21:06] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:21:10] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:21:10] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:21:10] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:21:20] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:21:20] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:21:23] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:21:23] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:21:23] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:21:33] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:21:33] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:21:37] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:21:37] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:21:37] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:21:47] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:21:47] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:21:51] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:21:51] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:21:51] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:22:01] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:22:01] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:22:08] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:22:08] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:22:08] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:22:18] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:22:18] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:22:34] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:22:34] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:22:34] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:22:44] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:22:44] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:22:48] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:22:48] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:22:48] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:22:58] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:22:58] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:23:05] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:23:05] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:23:05] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:23:15] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:23:15] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:23:23] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:23:23] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:23:23] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:23:33] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:23:33] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:23:36] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:23:36] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:23:36] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-20 14:32:43] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-20 14:32:43] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-20 14:32:43] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-20 14:32:45] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:32:45] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-20 14:32:45] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-22 18:17:24] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-22 18:17:24] [INFO] 금일 장 마감 시간(15:30:00)이 지나 프로그램을 안전하게 자동 종료합니다.
+[2026-06-24 13:56:15] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-24 13:56:15] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 13:56:15] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 13:56:15] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:56:15] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:56:15] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 13:56:25] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 13:56:25] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 13:56:25] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:56:25] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:56:25] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 13:56:35] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 13:56:35] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 13:56:35] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:56:35] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:56:35] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 13:56:45] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 13:56:45] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 13:56:46] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:56:46] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:56:46] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 13:56:56] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 13:56:56] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 13:56:56] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:56:56] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:56:56] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 13:57:06] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 13:57:06] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 13:57:09] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:57:09] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:57:09] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 13:57:19] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 13:57:19] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 13:57:21] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:57:21] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:57:21] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 13:57:31] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 13:57:31] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 13:57:31] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:57:31] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:57:31] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 13:57:41] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 13:57:41] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 13:57:42] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:57:42] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:57:42] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 13:57:52] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 13:57:52] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 13:57:52] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:57:52] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:57:52] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 13:58:03] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 13:58:03] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 13:58:03] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:58:03] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:58:03] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 13:58:13] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 13:58:13] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 13:58:13] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:58:13] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 13:58:13] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 14:00:30] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-24 14:00:30] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 14:00:30] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 14:00:30] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 14:00:30] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 14:00:30] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 14:00:40] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 14:00:40] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 14:00:44] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 14:00:44] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 14:00:44] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 14:00:54] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 14:00:54] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 14:00:54] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 14:00:54] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 14:00:54] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 14:03:29] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-24 14:03:29] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 14:03:29] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 14:03:32] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 14:03:32] [ERROR] 서버 응답 상세: {"error_description":"유효하지 않은 AppSecret입니다.","error_code":"EGW00105"}
+[2026-06-24 14:03:32] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 14:03:32] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 14:03:42] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 14:03:42] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 14:03:45] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 14:03:45] [ERROR] 서버 응답 상세: {"error_description":"유효하지 않은 AppSecret입니다.","error_code":"EGW00105"}
+[2026-06-24 14:03:45] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 14:03:45] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 14:03:55] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 14:03:55] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 14:03:55] [ERROR] 토큰 발급 실패: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 14:03:55] [ERROR] 서버 응답 상세: {"error_description":"유효하지 않은 AppSecret입니다.","error_code":"EGW00105"}
+[2026-06-24 14:03:55] [ERROR] 실행 도중 예기치 못한 크리티컬 시스템 에러 발생: 403 Client Error: Forbidden for url: https://openapivts.koreainvestment.com:29443/oauth2/tokenP
+[2026-06-24 14:03:55] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 14:06:32] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-24 14:06:32] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 14:06:32] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-24 14:06:32] [INFO] 새 토큰 발급 및 캐싱 완료.
+[2026-06-24 14:06:36] [INFO] [005930] 현재가 조회 성공: 332250원
+[2026-06-24 14:06:41] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): HTTPSConnectionPool(host='openapivts.koreainvestment.com', port=29443): Read timed out. (read timeout=5)
+[2026-06-24 14:06:47] [WARNING] [2/3] API 요청 실패 (TR_ID: VTTC8434R): HTTPSConnectionPool(host='openapivts.koreainvestment.com', port=29443): Read timed out. (read timeout=5)
+[2026-06-24 14:06:49] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-24 14:06:49] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-24 14:06:49] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-24 14:06:49] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 14:06:59] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 14:07:02] [INFO] [005930] 현재가 조회 성공: 332500원
+[2026-06-24 14:07:07] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): HTTPSConnectionPool(host='openapivts.koreainvestment.com', port=29443): Read timed out. (read timeout=5)
+[2026-06-24 14:55:47] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-24 14:55:47] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 14:55:47] [INFO] 기존에 발급된 당일 토큰을 재사용합니다.
+[2026-06-24 14:55:47] [INFO] [005930] 현재가 조회 성공: 336500원
+[2026-06-24 14:55:48] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=44168337&ACNT_PRDT_CD=01&AFHR_FLG=N&OFR_HEXS_DIV_CD=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-24 14:55:54] [WARNING] [2/3] API 요청 실패 (TR_ID: VTTC8434R): HTTPSConnectionPool(host='openapivts.koreainvestment.com', port=29443): Read timed out. (read timeout=5)
+[2026-06-24 14:55:55] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-24 14:55:55] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-24 14:55:55] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-24 14:55:55] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 14:56:05] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 14:56:08] [INFO] [005930] 현재가 조회 성공: 335500원
+[2026-06-24 14:56:09] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-24 14:56:09] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-24 14:56:09] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-24 14:56:09] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-24 14:56:19] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-24 14:56:20] [INFO] [005930] 현재가 조회 성공: 335000원
+[2026-06-25 00:17:28] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 00:17:28] [INFO] 현재 시간 00:17:28: 장 시작 대기 중 (시작 시간: 09:10:00). 30초 후 재확인합니다.
+[2026-06-25 00:17:58] [INFO] 현재 시간 00:17:58: 장 시작 대기 중 (시작 시간: 09:10:00). 30초 후 재확인합니다.
+[2026-06-25 00:18:28] [INFO] 현재 시간 00:18:28: 장 시작 대기 중 (시작 시간: 09:10:00). 30초 후 재확인합니다.
+[2026-06-25 00:18:58] [INFO] 현재 시간 00:18:58: 장 시작 대기 중 (시작 시간: 09:10:00). 30초 후 재확인합니다.
+[2026-06-25 00:19:28] [INFO] 현재 시간 00:19:28: 장 시작 대기 중 (시작 시간: 09:10:00). 30초 후 재확인합니다.
+[2026-06-25 00:19:58] [INFO] 현재 시간 00:19:58: 장 시작 대기 중 (시작 시간: 09:10:00). 30초 후 재확인합니다.
+[2026-06-25 09:00:23] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 09:00:23] [INFO] 현재 시간 09:00:23: 장 시작 대기 중 (시작 시간: 09:10:00). 30초 후 재확인합니다.
+[2026-06-25 09:10:57] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 09:10:57] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:10:57] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-25 09:10:58] [INFO] 새 토큰 발급 및 캐싱 완료.
+[2026-06-25 09:10:58] [INFO] [005930] 현재가 조회 성공: 356500원
+[2026-06-25 09:10:58] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=44168337&ACNT_PRDT_CD=01&AFHR_FLG=N&OFR_HEXS_DIV_CD=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:11:00] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:11:00] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:11:00] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:11:00] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:11:10] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:11:10] [INFO] [005930] 현재가 조회 성공: 357500원
+[2026-06-25 09:11:10] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=44168337&ACNT_PRDT_CD=01&AFHR_FLG=N&OFR_HEXS_DIV_CD=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:11:13] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:11:13] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:11:13] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:11:13] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:15:10] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 09:15:10] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:15:10] [INFO] 기존에 발급된 당일 토큰을 재사용합니다.
+[2026-06-25 09:15:11] [INFO] [005930] 현재가 조회 성공: 357500원
+[2026-06-25 09:15:13] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:15:13] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:15:13] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:15:13] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:15:23] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:15:23] [INFO] [005930] 현재가 조회 성공: 357500원
+[2026-06-25 09:15:24] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:15:24] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:15:24] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:15:24] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:15:34] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:15:35] [INFO] [005930] 현재가 조회 성공: 357250원
+[2026-06-25 09:18:41] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 09:18:41] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:18:41] [INFO] 기존에 발급된 당일 토큰을 재사용합니다.
+[2026-06-25 09:18:42] [INFO] [005930] 현재가 조회 성공: 356500원
+[2026-06-25 09:18:42] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:18:42] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:18:42] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:18:42] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:18:52] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:18:52] [INFO] [005930] 현재가 조회 성공: 356500원
+[2026-06-25 09:18:54] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:18:54] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:18:54] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:18:54] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:19:04] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:19:04] [INFO] [005930] 현재가 조회 성공: 357000원
+[2026-06-25 09:19:05] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=50194830&ACNT_PRDT_CD=01&AFHR_FLG=N&OFR_HEXS_DIV_CD=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:19:08] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:19:08] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:19:08] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:19:08] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:19:18] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:19:19] [INFO] [005930] 현재가 조회 성공: 357000원
+[2026-06-25 09:19:19] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=50194830&ACNT_PRDT_CD=01&AFHR_FLG=N&OFR_HEXS_DIV_CD=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:19:23] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:19:23] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:19:23] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:19:23] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:19:33] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:19:33] [INFO] [005930] 현재가 조회 성공: 357500원
+[2026-06-25 09:19:34] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=50194830&ACNT_PRDT_CD=01&AFHR_FLG=N&OFR_HEXS_DIV_CD=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:19:36] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:19:36] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:19:36] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:19:36] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:20:02] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 09:20:02] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:20:02] [INFO] 기존에 발급된 당일 토큰을 재사용합니다.
+[2026-06-25 09:20:03] [INFO] [005930] 현재가 조회 성공: 357500원
+[2026-06-25 09:20:07] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:20:07] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:20:07] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:20:07] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:23:44] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 09:23:44] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:23:44] [INFO] 기존에 발급된 당일 토큰을 재사용합니다.
+[2026-06-25 09:23:44] [INFO] [005930] 현재가 조회 성공: 359000원
+[2026-06-25 09:23:45] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:23:45] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:23:45] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:23:45] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:23:55] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:23:55] [INFO] [005930] 현재가 조회 성공: 358500원
+[2026-06-25 09:23:55] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:23:55] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:23:55] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:23:55] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:26:05] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 09:26:05] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:26:05] [INFO] 기존에 발급된 당일 토큰을 재사용합니다.
+[2026-06-25 09:26:06] [INFO] [005930] 현재가 조회 성공: 357500원
+[2026-06-25 09:26:09] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:26:09] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:26:09] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:26:09] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:26:19] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:26:19] [INFO] [005930] 현재가 조회 성공: 357000원
+[2026-06-25 09:26:20] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:26:20] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:26:20] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:26:20] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:26:30] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:26:31] [INFO] [005930] 현재가 조회 성공: 357250원
+[2026-06-25 09:26:32] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:26:32] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:26:32] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:26:32] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:27:21] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 09:27:21] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:27:21] [INFO] 기존에 발급된 당일 토큰을 재사용합니다.
+[2026-06-25 09:27:22] [INFO] [005930] 현재가 조회 성공: 358000원
+[2026-06-25 09:27:23] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=50194830&ACNT_PRDT_CD=01&AFHR_FLG=N&OFR_HEXS_DIV_CD=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:27:28] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:27:28] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:27:28] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:27:28] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:27:28] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:27:38] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:27:38] [INFO] [005930] 현재가 조회 성공: 358000원
+[2026-06-25 09:27:38] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=50194830&ACNT_PRDT_CD=01&AFHR_FLG=N&OFR_HEXS_DIV_CD=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:27:40] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:27:40] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:27:40] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:27:40] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:27:40] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:28:32] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 09:28:32] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:28:32] [INFO] 기존에 발급된 당일 토큰을 재사용합니다.
+[2026-06-25 09:28:32] [INFO] [005930] 현재가 조회 성공: 358500원
+[2026-06-25 09:28:33] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=50194830&ACNT_PRDT_CD=01&AFHR_FLPR_YN=N&OFL_YN=&INQR_DVSN=02&UNPR_DVSN=01&FUND_STTL_ICLD_YN=N&FNCG_AMT_AUTO_RDPT_YN=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:28:36] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:28:36] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:28:36] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:28:36] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:28:36] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:28:46] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:28:47] [INFO] [005930] 현재가 조회 성공: 358500원
+[2026-06-25 09:28:47] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=50194830&ACNT_PRDT_CD=01&AFHR_FLPR_YN=N&OFL_YN=&INQR_DVSN=02&UNPR_DVSN=01&FUND_STTL_ICLD_YN=N&FNCG_AMT_AUTO_RDPT_YN=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:28:50] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:28:50] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:28:50] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:28:50] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:28:50] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:29:00] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:29:00] [INFO] [005930] 현재가 조회 성공: 358500원
+[2026-06-25 09:29:02] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:29:02] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:29:02] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:29:02] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:29:02] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:29:12] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:29:12] [INFO] [005930] 현재가 조회 성공: 358000원
+[2026-06-25 09:29:14] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:29:14] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:29:14] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:29:14] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:29:14] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:29:24] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:29:25] [INFO] [005930] 현재가 조회 성공: 358000원
+[2026-06-25 09:29:27] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:29:27] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:29:27] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:29:27] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:29:27] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:29:37] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:29:37] [INFO] [005930] 현재가 조회 성공: 358500원
+[2026-06-25 09:29:38] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=50194830&ACNT_PRDT_CD=01&AFHR_FLPR_YN=N&OFL_YN=&INQR_DVSN=02&UNPR_DVSN=01&FUND_STTL_ICLD_YN=N&FNCG_AMT_AUTO_RDPT_YN=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:29:39] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:29:39] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:29:39] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:29:39] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:29:39] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:29:49] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:29:49] [INFO] [005930] 현재가 조회 성공: 358500원
+[2026-06-25 09:29:50] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=50194830&ACNT_PRDT_CD=01&AFHR_FLPR_YN=N&OFL_YN=&INQR_DVSN=02&UNPR_DVSN=01&FUND_STTL_ICLD_YN=N&FNCG_AMT_AUTO_RDPT_YN=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:29:51] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:29:51] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:29:51] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:29:51] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:29:51] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:30:01] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:30:01] [INFO] [005930] 현재가 조회 성공: 359000원
+[2026-06-25 09:30:05] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:30:05] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:30:05] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:30:05] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:30:05] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:30:15] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:30:15] [INFO] [005930] 현재가 조회 성공: 359250원
+[2026-06-25 09:30:19] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:30:19] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:30:19] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:30:19] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:30:19] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:30:29] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:30:30] [INFO] [005930] 현재가 조회 성공: 360000원
+[2026-06-25 09:30:33] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:30:33] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:30:33] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:30:33] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:30:33] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:30:43] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:30:45] [INFO] [005930] 현재가 조회 성공: 360000원
+[2026-06-25 09:30:46] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:30:46] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:30:46] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:30:46] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:30:46] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:31:23] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 09:31:23] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:31:23] [INFO] 기존에 발급된 당일 토큰을 재사용합니다.
+[2026-06-25 09:31:23] [INFO] [005930] 현재가 조회 성공: 361000원
+[2026-06-25 09:31:24] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=50194830&ACNT_PRDT_CD=01&AFHR_FLPR_YN=N&OFL_YN=&INQR_DVSN=02&UNPR_DVSN=01&FUND_STTL_ICLD_YN=N&FNCG_AMT_AUTO_RDPT_YN=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:31:28] [INFO] [디버그] output2 응답: None
+[2026-06-25 09:31:28] [INFO] 계좌 확인 -> 예수금: 0원, [005930] 보유: 0주
+[2026-06-25 09:31:28] [WARNING] 예수금이 부족하여 매수 주문을 보류합니다.
+[2026-06-25 09:31:28] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:31:28] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:40:18] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 09:40:18] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:40:18] [INFO] 새로운 Access Token 발급을 요청합니다.
+[2026-06-25 09:40:18] [INFO] 새 토큰 발급 및 캐싱 완료.
+[2026-06-25 09:40:21] [INFO] [005930] 현재가 조회 성공: 357500원
+[2026-06-25 09:40:23] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '10000000', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '0', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '0', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '0', 'tot_loan_amt': '0', 'scts_evlu_amt': '0', 'tot_evlu_amt': '10000000', 'nass_amt': '10000000', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '0', 'evlu_amt_smtl_amt': '0', 'evlu_pfls_smtl_amt': '0', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '0', 'asst_icdc_erng_rt': '0.00000000'}]
+[2026-06-25 09:40:23] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 0주
+[2026-06-25 09:40:23] [INFO] [005930] 매수 주문 요청 제출 예정 -> 수량: 1주, 가격: 359500원
+[2026-06-25 09:40:25] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC0846U): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/order-cash
+[2026-06-25 09:40:28] [WARNING] [2/3] API 요청 실패 (TR_ID: VTTC0846U): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/order-cash
+[2026-06-25 09:40:29] [WARNING] [3/3] API 요청 실패 (TR_ID: VTTC0846U): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/order-cash
+[2026-06-25 09:40:29] [ERROR] 최종 요청 실패 (TR_ID: VTTC0846U)
+[2026-06-25 09:40:29] [ERROR] [005930] 매수 주문 실패
+[2026-06-25 09:40:29] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:40:29] [INFO] 주문 처리 감지. 체결 추적을 위해 5초 대기 후 잔고를 확인합니다...
+[2026-06-25 09:40:39] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): HTTPSConnectionPool(host='openapivts.koreainvestment.com', port=29443): Read timed out. (read timeout=5)
+[2026-06-25 09:40:43] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '10000000', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '0', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '0', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '0', 'tot_loan_amt': '0', 'scts_evlu_amt': '0', 'tot_evlu_amt': '10000000', 'nass_amt': '10000000', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '0', 'evlu_amt_smtl_amt': '0', 'evlu_pfls_smtl_amt': '0', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '0', 'asst_icdc_erng_rt': '0.00000000'}]
+[2026-06-25 09:40:43] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 0주
+[2026-06-25 09:40:43] [INFO] [주문 결과 확인] 보유 수량 변동: 0주, 예수금 변동: 0원
+[2026-06-25 09:40:43] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:42:03] [INFO] 한국투자증권 모의투자 자동매매 프로그램을 시작합니다.
+[2026-06-25 09:42:03] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:42:03] [INFO] 기존에 발급된 당일 토큰을 재사용합니다.
+[2026-06-25 09:42:04] [INFO] [005930] 현재가 조회 성공: 355500원
+[2026-06-25 09:42:06] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '10000000', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '0', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '0', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '0', 'tot_loan_amt': '0', 'scts_evlu_amt': '0', 'tot_evlu_amt': '10000000', 'nass_amt': '10000000', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '0', 'evlu_amt_smtl_amt': '0', 'evlu_pfls_smtl_amt': '0', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '0', 'asst_icdc_erng_rt': '0.00000000'}]
+[2026-06-25 09:42:06] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 0주
+[2026-06-25 09:42:06] [INFO] [005930] 매수 주문 요청 제출 예정 -> 수량: 1주, 가격: 357500원
+[2026-06-25 09:42:06] [INFO] [005930] 매수 주문 성공! 주문번호: 0000009811
+[2026-06-25 09:42:06] [INFO] 보유 주식이 없어 매도 주문을 보류합니다.
+[2026-06-25 09:42:06] [INFO] 주문 처리 감지. 체결 추적을 위해 5초 대기 후 잔고를 확인합니다...
+[2026-06-25 09:42:14] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '9644700', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '355250', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '0', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '50', 'tot_loan_amt': '0', 'scts_evlu_amt': '355500', 'tot_evlu_amt': '10000200', 'nass_amt': '10000200', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '355250', 'evlu_amt_smtl_amt': '355500', 'evlu_pfls_smtl_amt': '250', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '200', 'asst_icdc_erng_rt': '0.00200000'}]
+[2026-06-25 09:42:14] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 1주
+[2026-06-25 09:42:14] [INFO] [주문 결과 확인] 보유 수량 변동: 1주, 예수금 변동: 0원
+[2026-06-25 09:42:14] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:42:24] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:42:25] [INFO] [005930] 현재가 조회 성공: 356000원
+[2026-06-25 09:42:26] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '9644700', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '355250', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '0', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '50', 'tot_loan_amt': '0', 'scts_evlu_amt': '355500', 'tot_evlu_amt': '10000200', 'nass_amt': '10000200', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '355250', 'evlu_amt_smtl_amt': '355500', 'evlu_pfls_smtl_amt': '250', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '200', 'asst_icdc_erng_rt': '0.00200000'}]
+[2026-06-25 09:42:26] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 1주
+[2026-06-25 09:42:26] [INFO] [005930] 매수 주문 요청 제출 예정 -> 수량: 1주, 가격: 358000원
+[2026-06-25 09:42:27] [INFO] [005930] 매수 주문 성공! 주문번호: 0000009843
+[2026-06-25 09:42:27] [INFO] [005930] 매도 주문 요청 제출 예정 -> 수량: 1주, 가격: 354000원
+[2026-06-25 09:42:28] [INFO] [005930] 매도 주문 성공! 주문번호: 0000009845
+[2026-06-25 09:42:28] [INFO] 주문 처리 감지. 체결 추적을 위해 5초 대기 후 잔고를 확인합니다...
+[2026-06-25 09:42:33] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '9643890', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '710750', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '355500', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '860', 'tot_loan_amt': '0', 'scts_evlu_amt': '356000', 'tot_evlu_amt': '9999890', 'nass_amt': '9999890', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '355375', 'evlu_amt_smtl_amt': '356000', 'evlu_pfls_smtl_amt': '625', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '-110', 'asst_icdc_erng_rt': '-0.00110000'}]
+[2026-06-25 09:42:33] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 1주
+[2026-06-25 09:42:33] [INFO] [주문 결과 확인] 보유 수량 변동: 0주, 예수금 변동: 0원
+[2026-06-25 09:42:33] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:42:43] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:42:43] [INFO] [005930] 현재가 조회 성공: 356000원
+[2026-06-25 09:42:44] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=50194830&ACNT_PRDT_CD=01&AFHR_FLPR_YN=N&OFL_YN=&INQR_DVSN=02&UNPR_DVSN=01&FUND_STTL_ICLD_YN=N&FNCG_AMT_AUTO_RDPT_YN=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:42:46] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '9643890', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '710750', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '355500', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '860', 'tot_loan_amt': '0', 'scts_evlu_amt': '356500', 'tot_evlu_amt': '10000390', 'nass_amt': '10000390', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '355375', 'evlu_amt_smtl_amt': '356500', 'evlu_pfls_smtl_amt': '1125', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '390', 'asst_icdc_erng_rt': '0.00390000'}]
+[2026-06-25 09:42:46] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 1주
+[2026-06-25 09:42:46] [INFO] [005930] 매수 주문 요청 제출 예정 -> 수량: 1주, 가격: 358000원
+[2026-06-25 09:42:46] [INFO] [005930] 매수 주문 성공! 주문번호: 0000009883
+[2026-06-25 09:42:46] [INFO] [005930] 매도 주문 요청 제출 예정 -> 수량: 1주, 가격: 354000원
+[2026-06-25 09:42:46] [INFO] [005930] 매도 주문 성공! 주문번호: 0000009884
+[2026-06-25 09:42:46] [INFO] 주문 처리 감지. 체결 추적을 위해 5초 대기 후 잔고를 확인합니다...
+[2026-06-25 09:42:55] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '9643328', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '1066750', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '711750', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '1672', 'tot_loan_amt': '0', 'scts_evlu_amt': '356250', 'tot_evlu_amt': '9999578', 'nass_amt': '9999578', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '355687', 'evlu_amt_smtl_amt': '356250', 'evlu_pfls_smtl_amt': '562', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '-422', 'asst_icdc_erng_rt': '-0.00422000'}]
+[2026-06-25 09:42:55] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 1주
+[2026-06-25 09:42:55] [INFO] [주문 결과 확인] 보유 수량 변동: 0주, 예수금 변동: 0원
+[2026-06-25 09:42:55] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:43:05] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:43:06] [INFO] [005930] 현재가 조회 성공: 356000원
+[2026-06-25 09:43:06] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '9643328', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '1066750', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '711750', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '1672', 'tot_loan_amt': '0', 'scts_evlu_amt': '356000', 'tot_evlu_amt': '9999328', 'nass_amt': '9999328', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '355687', 'evlu_amt_smtl_amt': '356000', 'evlu_pfls_smtl_amt': '312', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '-672', 'asst_icdc_erng_rt': '-0.00672000'}]
+[2026-06-25 09:43:06] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 1주
+[2026-06-25 09:43:06] [INFO] [005930] 매수 주문 요청 제출 예정 -> 수량: 1주, 가격: 358000원
+[2026-06-25 09:43:07] [INFO] [005930] 매수 주문 성공! 주문번호: 0000009943
+[2026-06-25 09:43:07] [INFO] [005930] 매도 주문 요청 제출 예정 -> 수량: 1주, 가격: 354000원
+[2026-06-25 09:43:09] [INFO] [005930] 매도 주문 성공! 주문번호: 0000009947
+[2026-06-25 09:43:09] [INFO] 주문 처리 감지. 체결 추적을 위해 5초 대기 후 잔고를 확인합니다...
+[2026-06-25 09:43:14] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '9642266', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '1422750', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '1067500', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '2484', 'tot_loan_amt': '0', 'scts_evlu_amt': '356000', 'tot_evlu_amt': '9998266', 'nass_amt': '9998266', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '355843', 'evlu_amt_smtl_amt': '356000', 'evlu_pfls_smtl_amt': '156', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '-1734', 'asst_icdc_erng_rt': '-0.01734000'}]
+[2026-06-25 09:43:14] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 1주
+[2026-06-25 09:43:14] [INFO] [주문 결과 확인] 보유 수량 변동: 0주, 예수금 변동: 0원
+[2026-06-25 09:43:14] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:43:24] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:43:25] [INFO] [005930] 현재가 조회 성공: 355500원
+[2026-06-25 09:43:25] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '9642266', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '1422750', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '1067500', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '2484', 'tot_loan_amt': '0', 'scts_evlu_amt': '355500', 'tot_evlu_amt': '9997766', 'nass_amt': '9997766', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '355843', 'evlu_amt_smtl_amt': '355500', 'evlu_pfls_smtl_amt': '-343', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '-2234', 'asst_icdc_erng_rt': '-0.02234000'}]
+[2026-06-25 09:43:25] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 1주
+[2026-06-25 09:43:25] [INFO] [005930] 매수 주문 요청 제출 예정 -> 수량: 1주, 가격: 357500원
+[2026-06-25 09:43:26] [INFO] [005930] 매수 주문 성공! 주문번호: 0000009989
+[2026-06-25 09:43:26] [INFO] [005930] 매도 주문 요청 제출 예정 -> 수량: 1주, 가격: 353500원
+[2026-06-25 09:43:26] [INFO] [005930] 매도 주문 성공! 주문번호: 0000009991
+[2026-06-25 09:43:26] [INFO] 주문 처리 감지. 체결 추적을 위해 5초 대기 후 잔고를 확인합니다...
+[2026-06-25 09:43:33] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '9641455', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '1778500', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '1423250', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '3295', 'tot_loan_amt': '0', 'scts_evlu_amt': '355500', 'tot_evlu_amt': '9996955', 'nass_amt': '9996955', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '355796', 'evlu_amt_smtl_amt': '355500', 'evlu_pfls_smtl_amt': '-296', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '-3045', 'asst_icdc_erng_rt': '-0.03045000'}]
+[2026-06-25 09:43:33] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 1주
+[2026-06-25 09:43:33] [INFO] [주문 결과 확인] 보유 수량 변동: 0주, 예수금 변동: 0원
+[2026-06-25 09:43:33] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
+[2026-06-25 09:43:43] [INFO] ============ 전략 루프 사이클 시작 ============
+[2026-06-25 09:43:43] [INFO] [005930] 현재가 조회 성공: 355500원
+[2026-06-25 09:43:43] [WARNING] [1/3] API 요청 실패 (TR_ID: VTTC8434R): 500 Server Error: Internal Server Error for url: https://openapivts.koreainvestment.com:29443/uapi/domestic-stock/v1/trading/inquire-balance?CANO=50194830&ACNT_PRDT_CD=01&AFHR_FLPR_YN=N&OFL_YN=&INQR_DVSN=02&UNPR_DVSN=01&FUND_STTL_ICLD_YN=N&FNCG_AMT_AUTO_RDPT_YN=N&PRCS_DVSN=01&CTX_AREA_FK100=&CTX_AREA_NK100=
+[2026-06-25 09:43:45] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '9641455', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '1778500', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '1423250', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '3295', 'tot_loan_amt': '0', 'scts_evlu_amt': '355500', 'tot_evlu_amt': '9996955', 'nass_amt': '9996955', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '355796', 'evlu_amt_smtl_amt': '355500', 'evlu_pfls_smtl_amt': '-296', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '-3045', 'asst_icdc_erng_rt': '-0.03045000'}]
+[2026-06-25 09:43:45] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 1주
+[2026-06-25 09:43:45] [INFO] [005930] 매수 주문 요청 제출 예정 -> 수량: 1주, 가격: 357500원
+[2026-06-25 09:43:45] [INFO] [005930] 매수 주문 성공! 주문번호: 0000010035
+[2026-06-25 09:43:45] [INFO] [005930] 매도 주문 요청 제출 예정 -> 수량: 1주, 가격: 353500원
+[2026-06-25 09:43:45] [INFO] [005930] 매도 주문 성공! 주문번호: 0000010036
+[2026-06-25 09:43:45] [INFO] 주문 처리 감지. 체결 추적을 위해 5초 대기 후 잔고를 확인합니다...
+[2026-06-25 09:43:51] [INFO] [디버그] output2 응답: [{'dnca_tot_amt': '10000000', 'nxdy_excc_amt': '10000000', 'prvs_rcdl_excc_amt': '9640144', 'cma_evlu_amt': '0', 'bfdy_buy_amt': '0', 'thdt_buy_amt': '2134000', 'nxdy_auto_rdpt_amt': '0', 'bfdy_sll_amt': '0', 'thdt_sll_amt': '1778250', 'd2_auto_rdpt_amt': '0', 'bfdy_tlex_amt': '0', 'thdt_tlex_amt': '4106', 'tot_loan_amt': '0', 'scts_evlu_amt': '355500', 'tot_evlu_amt': '9995644', 'nass_amt': '9995644', 'fncg_gld_auto_rdpt_yn': '', 'pchs_amt_smtl_amt': '355648', 'evlu_amt_smtl_amt': '355500', 'evlu_pfls_smtl_amt': '-148', 'tot_stln_slng_chgs': '0', 'bfdy_tot_asst_evlu_amt': '10000000', 'asst_icdc_amt': '-4356', 'asst_icdc_erng_rt': '-0.04356000'}]
+[2026-06-25 09:43:51] [INFO] 계좌 확인 -> 예수금: 10000000원, [005930] 보유: 1주
+[2026-06-25 09:43:51] [INFO] [주문 결과 확인] 보유 수량 변동: 0주, 예수금 변동: 0원
+[2026-06-25 09:43:51] [INFO] 10초 동안 대기 후 다음 폴링을 진행합니다.
